@@ -47,8 +47,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/FRErlingx/CLL.git"
-  },
-  "directories": {
-    "doc": "docs"
   }
 }
